@@ -1,3 +1,2 @@
-"# image_processing_assignment01" 
-"# image_processing_assignment01" 
-"# image_processing_assignment01" 
+"# EN3160 Assignment 1 on Intensity Transformations and Neighborhood
+Filtering" 
